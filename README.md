@@ -10,16 +10,6 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 
 ---
 
-## <span style="color:#00b4ff;">LeetCode</span>
-<div align="center">
-
-  <!-- Calendar + Stats -->
-  <img src="https://leetcard.jacoblin.cool/harritating?theme=dark&ext=heatmap&font=monospace" />
-
-</div>
-
----
-
 ## <span style="color:#00b4ff;">Tech Stack</span>
 **Languages:** C++, Python, C#, Java  
 **Engines:** Unreal Engine 5, Unity  
@@ -27,6 +17,7 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 **Currently Learning:** system design fundamentals, networking basics, shader programming
 
 ---
+
 
 ## <span style="color:#00b4ff;">Projects</span>
 
@@ -71,6 +62,16 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 </td>
 </tr>
 </table>
+
+---
+
+## <span style="color:#00b4ff;">LeetCode</span>
+<div align="center">
+
+  <!-- Calendar + Stats -->
+  <img src="https://leetcard.jacoblin.cool/harritating?theme=dark&ext=heatmap&font=monospace" />
+
+</div>
 
 
 ---

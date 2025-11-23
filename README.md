@@ -18,9 +18,6 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 
 ---
 
-
-## <span style="color:#00b4ff;">Projects</span>
-
 ## <span style="color:#00b4ff;">Projects</span>
 
 <table>

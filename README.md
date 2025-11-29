@@ -15,50 +15,44 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 **Engines:** Unreal Engine 5, Unity  
 **Areas of Work:** gameplay systems, input layers, rendering experiments, AI logic, tool scripting  
 **Currently Learning:** system design fundamentals, networking basics, shader programming
+<div align="center">
+<table width="100%">
 
----
-
-## <span style="color:#00b4ff;">Projects</span>
-
-<table>
+<!-- Row 1 -->
 <tr>
-<td align="center" width="50%">
-  
+<td align="center" width="100%">
+
 ### <span style="color:#00b4ff;">Deadlock-Protocol</span>  
-<!-- <img src="https://via.placeholder.com/320x160/000b1e/00b4ff?text=Deadlock-Protocol" width="90%" /> -->
 <p>Top-down zombie survival twin-stick shooter.</p>
 <a href="https://github.com/hawshil/Deadlock-Protocol">🔗 Open Project</a>
 
 </td>
-<td align="center" width="50%">
+</tr>
 
-### <span style="color:#00b4ff;">OpenGLx</span>  
-<!-- <img src="https://via.placeholder.com/320x160/000b1e/00b4ff?text=OpenGLx" width="90%" /> -->
-<p>Lightweight OpenGL rendering experiments.</p>
-<a href="https://github.com/hawshil/OpenGLx">🔗 Open Project</a>
+<!-- Row 2 -->
+<tr>
+<td align="center" width="100%">
+
+### <span style="color:#00b4ff;">Brick Breaker</span>  
+<p>Classic brick breaker game built in C++ using <code>graphics.h</code>.</p>
+<a href="https://github.com/hawshil/Brick-Breaker">🔗 Open Project</a>
 
 </td>
 </tr>
 
+<!-- Row 3 -->
 <tr>
-<td align="center" width="50%">
-
-### <span style="color:#00b4ff;">Drop-Rush</span>  
-<!-- <img src="https://via.placeholder.com/320x160/000b1e/00b4ff?text=Drop-Rush" width="90%" /> -->
-<p>Top-down 2D car game built in Unity.</p>
-<a href="https://github.com/Hawshil/Drop-Rush">🔗 Open Project</a>
-
-</td>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 ### <span style="color:#00b4ff;">SecureExamPlatform</span>  
-<!-- <img src="https://via.placeholder.com/320x160/000b1e/00b4ff?text=SecureExamPlatform" width="90%" /> -->
-<p>Exam management system with secure workflows.</p>
+<p>Exam system with secure anti-cheat workflows.</p>
 <a href="https://github.com/hawshil/SecureExamPlatform">🔗 Open Project</a>
 
 </td>
 </tr>
+
 </table>
+</div>
 
 ---
 
@@ -71,5 +65,4 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 </div>
 
 
----
 

@@ -25,7 +25,7 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 <td align="center" width="50%">
   
 ### <span style="color:#00b4ff;">Deadlock-Protocol</span>  
-<img src="https://via.placeholder.com/320x160/000b1e/00b4ff?text=Deadlock-Protocol" width="90%" />
+<!-- <img src="https://via.placeholder.com/320x160/000b1e/00b4ff?text=Deadlock-Protocol" width="90%" /> -->
 <p>Top-down zombie survival twin-stick shooter.</p>
 <a href="https://github.com/hawshil/Deadlock-Protocol">🔗 Open Project</a>
 
@@ -33,7 +33,7 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 <td align="center" width="50%">
 
 ### <span style="color:#00b4ff;">OpenGLx</span>  
-<img src="https://via.placeholder.com/320x160/000b1e/00b4ff?text=OpenGLx" width="90%" />
+<!-- <img src="https://via.placeholder.com/320x160/000b1e/00b4ff?text=OpenGLx" width="90%" /> -->
 <p>Lightweight OpenGL rendering experiments.</p>
 <a href="https://github.com/hawshil/OpenGLx">🔗 Open Project</a>
 
@@ -44,15 +44,15 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 <td align="center" width="50%">
 
 ### <span style="color:#00b4ff;">Drop-Rush</span>  
-<img src="https://via.placeholder.com/320x160/000b1e/00b4ff?text=Drop-Rush" width="90%" />
+<!-- <img src="https://via.placeholder.com/320x160/000b1e/00b4ff?text=Drop-Rush" width="90%" /> -->
 <p>Top-down 2D car game built in Unity.</p>
-<a href="https://github.com/hawshil/Drop-Rush">🔗 Open Project</a>
+<a href="https://github.com/Hawshil/Drop-Rush">🔗 Open Project</a>
 
 </td>
 <td align="center" width="50%">
 
 ### <span style="color:#00b4ff;">SecureExamPlatform</span>  
-<img src="https://via.placeholder.com/320x160/000b1e/00b4ff?text=SecureExamPlatform" width="90%" />
+<!-- <img src="https://via.placeholder.com/320x160/000b1e/00b4ff?text=SecureExamPlatform" width="90%" /> -->
 <p>Exam management system with secure workflows.</p>
 <a href="https://github.com/hawshil/SecureExamPlatform">🔗 Open Project</a>
 

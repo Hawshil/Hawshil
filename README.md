@@ -24,7 +24,7 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 
 ### <span style="color:#00b4ff;">Deadlock-Protocol</span>  
 <p>Top-down zombie survival twin-stick shooter.</p>
-<a href="https://github.com/Hawshil/DeadlockProtocol">🔗 Open Project</a>
+<a href="https://github.com/Hawshil/Deadlock-Protocol">🔗 Open Project</a>
 
 </td>
 </tr>

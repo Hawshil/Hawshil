@@ -35,7 +35,7 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 
 ### <span style="color:#00b4ff;">Brick Breaker</span>  
 <p>Classic brick breaker game built in C++ using <code>graphics.h</code>.</p>
-<a href="https://github.com/hawshil/Brick-Breaker">🔗 Open Project</a>
+<a href="https://github.com/Hawshil/brickBreaker">🔗 Open Project</a>
 
 </td>
 </tr>

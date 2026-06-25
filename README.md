@@ -54,28 +54,9 @@ Currently exploring Unreal Engine, gameplay systems and low-level patterns.
 <tr>
 <td align="center" width="50%">
 
-<h3 style="color:#00b4ff;">Deadlock-Protocol</h3>
-<p>Top-down zombie survival twin-stick shooter built in Unreal Engine 5.</p>
-<a href="https://github.com/Hawshil/Deadlock-Protocol">🔗 Open Project</a>
-
-</td>
-
-<td align="center" width="50%">
-
 <h3 style="color:#00b4ff;">AwakenedFragments</h3>
 <p>C++ game/systems project focused on gameplay architecture and core mechanics.</p>
 <a href="https://github.com/Hawshil/AwakenedFragments">🔗 Open Project</a>
-
-</td>
-</tr>
-
-<!-- Row 2 -->
-<tr>
-<td align="center" width="50%">
-
-<h3 style="color:#00b4ff;">CompetitiveProgramming</h3>
-<p>C++ solutions, templates, and algorithm implementations.</p>
-<a href="https://github.com/Hawshil/CompetitiveProgramming">🔗 Open Project</a>
 
 </td>
 
@@ -88,7 +69,7 @@ Currently exploring Unreal Engine, gameplay systems and low-level patterns.
 </td>
 </tr>
 
-<!-- Row 3 -->
+<!-- Row 2 -->
 <tr>
 <td align="center" width="50%">
 
@@ -103,6 +84,25 @@ Currently exploring Unreal Engine, gameplay systems and low-level patterns.
 <h3 style="color:#00b4ff;">The-Rat-Race</h3>
 <p>C++ game project centered around progression and challenge loops.</p>
 <a href="https://github.com/Hawshil/The-Rat-Race">🔗 Open Project</a>
+
+</td>
+</tr>
+
+<!-- Row 3 -->
+<tr>
+<td align="center" width="50%">
+
+<h3 style="color:#00b4ff;">CompetitiveProgramming</h3>
+<p>C++ solutions, templates, and algorithm implementations.</p>
+<a href="https://github.com/Hawshil/CompetitiveProgramming">🔗 Open Project</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<h3 style="color:#00b4ff;">Deadlock-Protocol</h3>
+<p>Top-down zombie survival twin-stick shooter built in Unreal Engine 5.</p>
+<a href="https://github.com/Hawshil/Deadlock-Protocol">🔗 Open Project</a>
 
 </td>
 </tr>

@@ -6,8 +6,8 @@
 <h2 align="center" style="color:#00b4ff;">Profile</h2>
 
 <p align="center">
-Focused on game development, C++ systems, rendering fundamentals, and practical engine engineering. <br>
-Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugging workflows.
+Focused on game development, C++ systems, rendering and engine programming. <br>
+Currently exploring Unreal Engine, gameplay systems and low-level patterns.
 </p>
 
 ---
@@ -20,11 +20,11 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 <table width="80%">
   <tr>
     <td align="left"><b>Languages:</b></td>
-    <td align="left" style="text-align: justify;">C++, Python, C#, Java</td>
+    <td align="left" style="text-align: justify;">C++11, C++17, C++20, C# </td>
   </tr>
   <tr>
     <td align="left"><b>Engines:</b></td>
-    <td align="left" style="text-align: justify;">Unreal Engine 5, Unity</td>
+    <td align="left" style="text-align: justify;">Unreal Engine 5, HandmadeHero</td>
   </tr>
   <tr>
     <td align="left"><b>Areas of Work:</b></td>
@@ -35,7 +35,7 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
   <tr>
     <td align="left"><b>Currently Learning:</b></td>
     <td align="left" style="text-align: justify;">
-      System design fundamentals, networking basics, shader programming
+      System design fundamentals, networking basics, shader programming, low level programming
     </td>
   </tr>
 </table>
@@ -52,33 +52,57 @@ Currently exploring Unreal Engine, gameplay systems, memory patterns, and debugg
 
 <!-- Row 1 -->
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
 <h3 style="color:#00b4ff;">Deadlock-Protocol</h3>
-<p>Top-down zombie survival twin-stick shooter.</p>
+<p>Top-down zombie survival twin-stick shooter built in Unreal Engine 5.</p>
 <a href="https://github.com/Hawshil/Deadlock-Protocol">🔗 Open Project</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<h3 style="color:#00b4ff;">AwakenedFragments</h3>
+<p>C++ game/systems project focused on gameplay architecture and core mechanics.</p>
+<a href="https://github.com/Hawshil/AwakenedFragments">🔗 Open Project</a>
 
 </td>
 </tr>
 
 <!-- Row 2 -->
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
-<h3 style="color:#00b4ff;">Brick Breaker</h3>
-<p>Classic brick breaker game built in C++ using <code>graphics.h</code>.</p>
-<a href="https://github.com/Hawshil/brickBreaker">🔗 Open Project</a>
+<h3 style="color:#00b4ff;">CompetitiveProgramming</h3>
+<p>C++ solutions, templates, and algorithm implementations.</p>
+<a href="https://github.com/Hawshil/CompetitiveProgramming">🔗 Open Project</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<h3 style="color:#00b4ff;">raftaarDB</h3>
+<p>High-performance columnar database engine built in C++.</p>
+<a href="https://github.com/Hawshil/raftaarDB">🔗 Open Project</a>
 
 </td>
 </tr>
 
 <!-- Row 3 -->
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
-<h3 style="color:#00b4ff;">SecureExamPlatform</h3>
-<p>Exam system with secure anti-cheat workflows.</p>
-<a href="https://github.com/hawshil/SecureExamPlatform">🔗 Open Project</a>
+<h3 style="color:#00b4ff;">The-Chamber-Of-Secrets</h3>
+<p>C++ project exploring puzzles and gameplay systems.</p>
+<a href="https://github.com/Hawshil/The-Chamber-Of-Secrets">🔗 Open Project</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<h3 style="color:#00b4ff;">The-Rat-Race</h3>
+<p>C++ game project centered around progression and challenge loops.</p>
+<a href="https://github.com/Hawshil/The-Rat-Race">🔗 Open Project</a>
 
 </td>
 </tr>
